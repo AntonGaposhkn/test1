@@ -1,0 +1,8 @@
+com\kata\academy\avia_sales\entity\Aircrafts.class
+com\kata\academy\avia_sales\entity\Airline.class
+com\kata\academy\avia_sales\entity\Action.class
+com\kata\academy\avia_sales\entity\Airports.class
+com\kata\academy\avia_sales\FlightManagementApplication.class
+com\kata\academy\avia_sales\entity\Flight.class
+com\kata\academy\avia_sales\entity\AviaCompany.class
+com\kata\academy\avia_sales\enums\StatusOfFlight.class
